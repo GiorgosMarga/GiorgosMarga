@@ -6,7 +6,7 @@ Backend Engineer
 
 * 🌍  I'm based in Volos
 * ✉️  You can contact me at [giorgosmarga509@gmail.com](mailto:giorgosmarga509@gmail.com)
-* 🧠  I'm learning advanced node.js
+* 🧠  I'm learning tRPC
 
 ### Skills
 
